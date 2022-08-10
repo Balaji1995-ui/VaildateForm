@@ -1,0 +1,836 @@
+.box-form{
+    position: absolute;
+    width: 841px;
+    height: 928px;
+    left: 312px;
+    top: 37px;
+    
+    background: #e1dddd;
+    border-radius: 10px;
+
+
+}
+.box-form > h1{
+    
+    position: absolute;
+width: 357px;
+height: 30px;
+left: 234px;
+top: 34px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 35px;
+line-height: 30px;
+text-align: center;
+
+color: #660606;
+}
+.label1 {
+    position: absolute;
+width: 84px;
+height: 30px;
+left: 339px;
+top: 155px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.label3 {
+    position: absolute;
+    width: 108px;
+    height: 30px;
+    left: 337px;
+    top: 219px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.input3{
+    position: absolute;
+width: 310px;
+height: 26px;
+left: 446px;
+top: 217px;
+font-style: italic;
+text-align: center;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.input1{
+    font-style: italic;
+    position: absolute;
+width: 222px;
+height: 26px;
+left: 440px;
+top: 159px;
+text-align: center;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.label2{
+    position: absolute;
+    width: 142px;
+    height: 30px;
+    left: 712px;
+    top: 161px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.input2{
+    font-style: italic;
+    position: absolute;
+width: 202px;
+height: 26px;
+left: 861px;
+top: 161px;
+text-align: center;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.input4{
+    position: absolute;
+width: 202px;
+height: 26px;
+left: 879px;
+top: 217px;
+text-align: center;
+font-style: italic;
+
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.label4{
+    position: absolute;
+width: 107px;
+height: 30px;
+left: 770px;
+top: 215px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.label5{
+    position: absolute;
+width: 80px;
+height: 30px;
+left: 339px;
+top: 270px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.input5{
+    position: absolute;
+width: 123px;
+height: 26px;
+left: 431px;
+top: 268px;
+
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.label6{
+    position: absolute;
+width: 101px;
+height: 30px;
+left: 561px;
+top: 270px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+.input6{
+    
+position: absolute;
+width: 331px;
+height: 26px;
+left: 674px;
+top: 270px;
+font-style: italic;
+text-align: center;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.input7{
+    position: absolute;
+    width: 331px;
+    height: 26px;
+    left: 456px;
+    top: 319px;
+    
+    background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+    border-radius: 5px;
+}
+.label7{
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 336px;
+    top: 319px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+    text-align: center;
+    font-style: italic;
+
+}
+.label8{
+    position: absolute;
+width: 49px;
+height: 30px;
+left: 821px;
+top: 315px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.input8{
+    position: absolute;
+width: 165px;
+height: 26px;
+left: 881px;
+top: 319px;
+font-style: italic;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.input9{
+    position: absolute;
+    width: 165px;
+    height: 26px;
+    left: 419px;
+    top: 372px;
+    font-style: italic;
+    
+    background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+    border-radius: 5px;
+}
+.label9{
+    position: absolute;
+width: 65px;
+height: 30px;
+left: 339px;
+top: 368px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.input10{
+    position: absolute;
+    width: 165px;
+    height: 26px;
+    left: 689px;
+    top: 372px;
+    
+    background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+    border-radius: 5px;
+}
+.label10{
+    position: absolute;
+width: 91px;
+height: 30px;
+left: 598px;
+top: 370px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.label11{
+    
+position: absolute;
+width: 99px;
+height: 30px;
+left: 880px;
+top: 368px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.input11{
+    
+position: absolute;
+width: 154px;
+height: 26px;
+left: 990px;
+top: 368px;
+
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.label12{
+    position: absolute;
+width: 138px;
+height: 30px;
+left: 339px;
+top: 434px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.input12{
+    position: absolute;
+width: 202px;
+height: 26px;
+left: 487px;
+top: 436px;
+text-align: center;
+font-style: italic;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+
+}
+.label13{
+    position: absolute;
+width: 132px;
+height: 30px;
+left: 338px;
+top: 486px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+.input13{
+
+    position: absolute;
+width: 202px;
+height: 26px;
+left: 485px;
+top: 488px;
+text-align: center;
+font-style: italic;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.input14{
+    position: absolute;
+width: 202px;
+height: 26px;
+left: 938px;
+top: 484px;
+font-style: italic;
+text-align: center;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+
+}
+.label14{
+    position: absolute;
+width: 232px;
+height: 30px;
+left: 699px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+.label15{
+    position: absolute;
+width: 129px;
+height: 30px;
+left: 340px;
+top: 546px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.input15{
+    position: absolute;
+width: 503px;
+height: 26px;
+left: 487px;
+top: 547px;
+font-style: italic;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.label16{
+    position: absolute;
+width: 143px;
+height: 30px;
+left: 333px;
+top: 599px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+.input16{
+    position: absolute;
+width: 503px;
+height: 26px;
+left: 489px;
+top: 603px;
+font-style: italic;
+text-align: center;
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+
+}
+.label17{
+    position: absolute;
+    width: 123px;
+    height: 30px;
+    left: 348px;
+    top: 650px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.input17{
+    position: absolute;
+    width: 431px;
+    height: 26px;
+    left: 507px;
+    top: 650px;
+    font-style: italic;
+    text-align: center;
+    background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+    border-radius: 5px;
+}
+.label18{
+    position: absolute;
+width: 441px;
+height: 30px;
+left: 348px;
+top: 699px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+.input18{
+    position: absolute;
+width: 39px;
+height: 26px;
+left: 767px;
+top: 701px;
+
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+}
+.label19{
+    position: absolute;
+    width: 62px;
+    height: 30px;
+    left: 408px;
+    top: 748px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+}
+.input19{
+    position: absolute;
+width: 123px;
+height: 26px;
+left: 476px;
+top: 752px;
+
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+
+}
+.label20{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 628px;
+top: 748px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+.input20{
+    position: absolute;
+    width: 123px;
+    height: 26px;
+    left: 680px;
+    top: 752px;
+    
+    background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+    border-radius: 5px;
+}
+.input21{
+    position: absolute;
+width: 202px;
+height: 26px;
+left: 431px;
+top: 810px;
+
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+border-radius: 5px;
+
+}
+.label21{
+    position: absolute;
+width: 79px;
+height: 30px;
+left: 337px;
+top: 806px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.label21a{
+    position: absolute;
+width: 107px;
+height: 18px;
+left: 646px;
+top: 816px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+}
+.label22{
+    position: absolute;
+width: 105px;
+height: 30px;
+left: 340px;
+top: 854px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+}
+.label22a{
+    position: absolute;
+width: 148px;
+height: 18px;
+left: 667px;
+top: 860px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+}
+.input22{
+    position: absolute;
+    width: 202px;
+    height: 26px;
+    left: 450px;
+    top: 852px;
+    
+    background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #F8F8F8, #F8F8F8), #F8F8F8;
+    border-radius: 5px;
+}
+.btn{
+    position: absolute;
+width: 162px;
+height: 41px;
+left: 547px;
+top: 912px;
+font-size: 20px;
+color: white;
+background: #09581F;
+border-radius: 10px;
+font-family: 'Inter';
+font-style: italic;
+}
+
+
+.error1{
+    position: absolute;
+width: 519px;
+height: 28px;
+left: 351px;
+top: 187px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+
+}
+.error10{
+    position: absolute;
+width: 279px;
+height: 28px;
+left: 830px;
+top: 249px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+}
+.error2{
+    position: absolute;
+    width: 379px;
+    height: 28px;
+    left: 775px;
+    top: 191px;
+    font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+}
+.error3{
+    position: absolute;
+width: 279px;
+height: 28px;
+left: 400px;
+top: 245px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+
+
+}
+.error4{
+    position: absolute;
+width: 415px;
+height: 28px;
+left: 695px;
+top: 436px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+}
+.error5{
+    
+position: absolute;
+width: 479px;
+height: 28px;
+left: 319px;
+top: 519px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+
+}
+.error6{
+    position: absolute;
+width: 479px;
+height: 28px;
+left: 769px;
+top: 519px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+}
+.btn2{
+    
+position: absolute;
+width: 162px;
+height: 41px;
+left: 732px;
+top: 910px;
+font-size: 20px;
+color: white;
+background: #09581F;
+border-radius: 10px;
+font-family: 'Inter';
+font-style: italic;
+
+}
+.error8{
+    position: absolute;
+    width: 279px;
+    height: 28px;
+    left: 772px;
+    top: 808px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.error9{
+    position: absolute;
+    width: 299px;
+    height: 28px;
+    left: 815px;
+    top: 854px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+
+}
